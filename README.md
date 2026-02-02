@@ -67,4 +67,4 @@ Considero que el copiloto hasta este punto cumple con los requisitos propuestos 
 
 Es capaz de reconocer tanto el prompt externo del usuario como el prompt interno para limitar el tipo de conversación y de respuestas que genera, así como el tono y la estructura de la respuesta esperada.
 
-Considero que es un muy buen punto de partida para comenzar con la integración de agentes en el proyecto.
+Considero que es un muy buen punto de partida para comenzar con la integración de agentes en el proyecto
