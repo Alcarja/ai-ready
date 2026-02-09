@@ -31,7 +31,7 @@ def generate_embeddings(chunks: list[dict]) -> list[dict]:
         for chunk in chunks:
             # Call Google's embedding API
             response = genai.embed_content(  # type: ignore
-                model="models/embedding-001",
+                model="models/gemini-embedding-001",
                 content=chunk['text']
             )
 
